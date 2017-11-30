@@ -1,0 +1,40 @@
+
+.imageHeader
+{
+	height: 50px;
+	width: 180px;
+}
+
+
+.sizingSearch
+{
+	width: 600px;
+margin-left: 30px;
+
+	height: 50px;
+}
+
+a:hover{
+	color: blue;
+}
+
+.navbartog
+{
+	padding: 3px;
+color: black;
+	list-style-type: none;
+
+}
+div.customimageuniv {
+
+	overflow: auto;
+	white-space: nowrap;
+	padding: 6px;
+}
+.customimageuniv1
+{
+
+	padding: 2px;
+	margin: 3px;
+	display: inline-block;
+}
